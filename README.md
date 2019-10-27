@@ -1,2 +1,4 @@
 # Meme-Compilation-Maker
-Make Meme Compilation Videos!
+Make Meme Compilation videos with an automated batch file.
+
+
