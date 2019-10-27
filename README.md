@@ -8,6 +8,10 @@ Windows 10 (7 & 8 may work)
 
 ffmpeg (standalone executable)
 
+# Setup
+
+Place the ffmpeg standalone executable into the src folder.
+
 # How to create a meme compilation
 
 1. Grab all the meme clips you want for the compilation and place them in the src folder.
